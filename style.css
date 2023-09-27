@@ -1,0 +1,11 @@
+body
+{
+
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+canvas {
+    border:3px solid white; border-radius: 20px; box-shadow: 5px 5px 5px white; 
+   }
